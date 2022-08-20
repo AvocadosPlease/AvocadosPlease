@@ -1,17 +1,48 @@
-                                                       <h1 align = "center"># Hi there, I'm Pedro</h1>
+                                                       
 
-<img align = "right" src="https://user-images.githubusercontent.com/91437123/185767487-833ee3a8-d70c-4b09-97fd-2986bb5f9218.gif">
+<h1 align = "center" border-radius: "5px" > Hi there I'm Pedro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+ 
+<body>
+  <br>
+    <div align= "center">
+      <img  src="https://user-images.githubusercontent.com/91437123/185768604-7a35be87-56f4-41cc-b57c-f7c69f949873.gif">
+    </div>
+
+<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+  
+<h3 align = "center">I'm a 22 years old Mulesoft Developer from Portugal. </h3>
+  
+<div>
+  <img src="https://user-images.githubusercontent.com/91437123/185768801-8acffc60-fa5b-4ecb-a6a1-dbf9705811d5.gif" align="right" width="400" >
+   
+   <h2>
+      <b>Learning :</b> 
+   </h2>
+    <li>
+        Kotlin ✨
+  </li>
+  <li>
+        Android Dev ✨
+  </li>
+  <h2>
+      <b>Hobbies:</b> 
+   </h2>
+    <li>
+      Watching Anime & Netflix ✨
+  </li>
+  <li>
+      Go out with friends ✨  
+  </li>
+  <li>
+      Gym ✨
+   
+   <h2 align="center"> Languages & Tools 👨‍💻 🛠🗨️ </h2>  
 
 
+<br>
 
+</div>
 
-## I'm a Junior Developer, looking for new projects!
-- 🌱 I’m currently learning everything 😆
-- 🕺 I’m looking to collaborate in other projects
-- 🥅 2022 Goals: Learn more about web programming
-- 🔦 Fun fact: 
-- 
-### Languages and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Celeste-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Celeste-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -23,7 +54,42 @@
   <img align="center" alt="Celeste-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 </div>
 <br></br>
-### Connect with me:
+
+
+ </br>
+
+
+
+
+<h2 align="center"> Contact Me: </h2>
+
+
+  
+
 <div>
-  <a href="https://www.linkedin.com/in/wherearetheavocados/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+  <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+
+ 
+ </div>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+<p align="center" >  
+  <a href="https://github.com/AvocadosPlease/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
