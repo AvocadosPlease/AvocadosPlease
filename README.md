@@ -1,6 +1,6 @@
                                                        # Hi there, I'm Pedro Silva
 
-<img align = "center" height ="100" src="https://user-images.githubusercontent.com/91437123/185767487-833ee3a8-d70c-4b09-97fd-2986bb5f9218.gif">
+<img align = "right" src="https://user-images.githubusercontent.com/91437123/185767487-833ee3a8-d70c-4b09-97fd-2986bb5f9218.gif">
 
 
 
