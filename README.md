@@ -81,15 +81,11 @@
  
  </div>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-<p align="center" >  
-  <a href="https://github.com/AvocadosPlease/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+<br>
+<p>
+</p>
+ <p align="center" >
+ 
+ <img src="https://activity-graph.herokuapp.com/graph?username=avocadosplease&bg_color=000000&color=04ff00&line=04ff00&point=ffffff&area=true&hide_border=true">
+ 
+</p>
