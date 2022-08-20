@@ -1,4 +1,10 @@
-# Hi there, I'm Pedro Silva :abanando:
+# Hi there, I'm Pedro Silva
+
+![anime-boy](https://user-images.githubusercontent.com/91437123/185767487-833ee3a8-d70c-4b09-97fd-2986bb5f9218.gif)
+
+
+
+
 ## I'm a Junior Developer, looking for new projects!
 - 🌱 I’m currently learning everything 😆
 - 🕺 I’m looking to collaborate in other projects
