@@ -19,10 +19,10 @@
       <b>Learning :</b> 
    </h2>
     <li>
-        Kotlin ✨
+        IOS Dev ✨
   </li>
   <li>
-        Android Dev ✨
+        Swift ✨
   </li>
   <h2>
       <b>Hobbies:</b> 
